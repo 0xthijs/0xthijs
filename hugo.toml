@@ -1,10 +1,10 @@
 baseURL = 'https://0xthijs.github.io/hr-ai-portfolio/'
 languageCode = 'en-us'
-title = 'HR Analytics Portfolio'
+title = 'Human-Centric Intelligence'
 theme = 'PaperMod'
 
 [params]
-    defaultTheme = 'auto'
+    defaultTheme = 'dark'
     ShowReadingTime = true
     ShowShareButtons = true
     ShowPostNavLinks = true
@@ -14,15 +14,25 @@ theme = 'PaperMod'
     
     [params.profileMode]
         enabled = true
-        title = "Hi there! I'm Thijs"
-        subtitle = "Senior HRBP turning AI-Enabler"
-        imageUrl = "https://github.com/0xthijs.png" # Placeholder
-        imageTitle = "Thijs"
+        title = "Human-Centric Intelligence"
+        subtitle = "Thijs | Senior HR Business Partner | AI-First Tech Enabler"
+        imageUrl = "https://github.com/0xthijs.png"
+        imageTitle = "My AI Avatar"
+        imageWidth = 120
+        imageHeight = 120
         buttons = [
             { name = "About Me", url = "about" },
             { name = "Projects", url = "projects" },
             { name = "GitHub", url = "https://github.com/0xthijs" }
         ]
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/0xthijs"
+
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://linkedin.com/in/thijsvanderaa"
 
 [menu]
     [[menu.main]]
