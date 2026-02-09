@@ -29,4 +29,7 @@ Beyond the website, this repository houses raw datasets and analytical scripts u
 ```
 
 ## Project Log
-- 2026-02-09: Initialized Hugo architecture and deployed "PaperMod" theme using AI-First workflow.
+- **2026-02-09**: HR Attrition Analysis & Audit
+    - **Analysis**: Calculated Flight Risk (16.37%) and Manager Stability (32.32% attrition for <1yr). Published `content/posts/hr-attrition-analysis.md`.
+    - **Audit**: Validated findings with `data-lab/audit_analysis.py`. Sample sizes confirmed > 30. Added "Data Verified" badge.
+- **2026-02-09**: Initialized Hugo architecture and deployed "PaperMod" theme using AI-First workflow.
