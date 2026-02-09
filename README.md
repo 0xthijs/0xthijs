@@ -19,12 +19,14 @@ Beyond the website, this repository houses raw datasets and analytical scripts u
 
 ```text
 .
-├── content/                # Website Content (Markdown files for Hugo)
-│   └── about.md            # Professional Bio
+├── content/projects/       # [Showcase] Data Stories & Case Studies
+├── data-lab/               # [Lab] Python Scripts & Technical Documentation
+│   ├── 01-ibm-attrition/   # Attrition Analysis & Dataset
+│   ├── 02-promotion-velocity/
+│   ├── 03-burnout-risk/
+│   └── 04-diversity-audit/
 ├── themes/                 # Hugo Themes (PaperMod)
 ├── hugo.toml               # Website Configuration
-├── IBM_HR_Employee...csv   # [DATA] Raw Dataset impacting Retention Analysis
-├── queries.sql             # [DATA] SQL scripts for data segmentation
 └── README.md               # This file
 ```
 
@@ -32,4 +34,8 @@ Beyond the website, this repository houses raw datasets and analytical scripts u
 - **2026-02-09**: HR Attrition Analysis & Audit
     - **Analysis**: Calculated Flight Risk (16.37%) and Manager Stability (32.32% attrition for <1yr). Published `content/posts/hr-attrition-analysis.md`.
     - **Audit**: Validated findings with `data-lab/audit_analysis.py`. Sample sizes confirmed > 30. Added "Data Verified" badge.
+- **2026-02-09**: Repository Expansion & "Lab vs. Showcase" Architecture
+    -   **New Modules**: Implemented `promotion-velocity`, `burnout-risk`, and `diversity-audit` in `data-lab/`.
+    -   **Portfolio**: Published 3 new Data Stories to `content/projects/`.
+    -   **Security**: Enforced "Deny by Default" .gitignore policy for data protection.
 - **2026-02-09**: Initialized Hugo architecture and deployed "PaperMod" theme using AI-First workflow.
