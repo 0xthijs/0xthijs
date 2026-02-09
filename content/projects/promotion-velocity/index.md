@@ -20,7 +20,7 @@ I segmented high performers (Performance Rating $\ge$ 3) into two groups:
 
 By calculating the attrition rate for each segment, I uncovered a critical insight:
 
-![Stagnation Heatmap](/images/promotion/promotion-stagnation.png)
+![Stagnation Heatmap](promotion-stagnation.png)
 
 ### Key Metrics
 *   **Stagnant High Performers:** 13.7% Attrition

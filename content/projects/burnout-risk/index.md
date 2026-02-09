@@ -20,7 +20,7 @@ The "Burnout Score" (0-100) aggregates weighted risk factors:
 
 The model proved highly predictive. Employees flagged as "High Risk" (Score $\ge$ 60) showed a massive spike in attrition.
 
-![Burnout Risk Chart](/images/burnout/burnout-risk.png)
+![Burnout Risk Chart](burnout-risk.png)
 
 | Risk Segment | Burnout Score | Attrition Rate |
 | :--- | :--- | :--- |

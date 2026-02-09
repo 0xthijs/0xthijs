@@ -7,8 +7,10 @@ import os
 sns.set_theme(style="whitegrid")
 
 # Define paths
+# Define paths
 DATA_PATH = '../01-ibm-attrition/IBM_HR_Employee_Attrition.csv'
-OUTPUT_DIR = '../../static/images/diversity/'
+# Anchor output directory to the script location
+OUTPUT_DIR = os.path.join(os.path.dirname(__file__), '../../static/images/diversity/')
 
 # Ensure output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)

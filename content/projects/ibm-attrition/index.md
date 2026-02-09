@@ -17,7 +17,7 @@ This suggests that our highest achievers might be feeling undervalued or burnt o
 ### 2. The "New Manager" Danger Zone
 The relationship with a manager is a strong predictor of retention. I analyzed attrition rates based on the number of years an employee has spent with their current manager.
 
-![Attrition by Manager Stability](/images/attrition/manager-tenure.png)
+![Attrition by Manager Stability](manager-tenure.png)
 
 *Figure 1: Attrition Rate by Years with Current Manager*
 

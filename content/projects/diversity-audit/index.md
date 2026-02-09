@@ -12,7 +12,7 @@ Diversity, Equity, and Inclusion (DEI) requires rigorous measurement. I conducte
 
 We calculated the **Adjusted Pay Gap**—comparing the average monthly income of men and women *within the same job level*.
 
-![Gender Pay Gap Chart](/images/diversity/gender-pay-gap.png)
+![Gender Pay Gap Chart](gender-pay-gap.png)
 
 The results are positive. The gap across all levels is **less than 2%**, and at Job Level 3, female employees actually earn slightly more on average. This indicates our compensation bands are working effectively to prevent systemic gender bias in pay.
 
@@ -20,7 +20,7 @@ The results are positive. The gap across all levels is **less than 2%**, and at 
 
 While pay is equal, *access* to higher-paying roles is not.
 
-![Representation Chart](/images/diversity/gender-representation.png)
+![Representation Chart](gender-representation.png)
 
 Our analysis shows a "leaky pipeline" to the C-Suite:
 *   **Level 4 (Director):** 48% Female (Near Parity)
