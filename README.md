@@ -21,3 +21,6 @@ The dataset contains anonymized employee records (Source: IBM), including variab
 - **Excel:** Advanced data cleaning, Pivot Tables, and logical functions (XLOOKUP).
 - **SQL:** (Planned) For querying and segmenting large datasets.
 - **PowerBI:** (Planned) For interactive dashboarding and stakeholder reporting.
+
+## Project Log
+- 2026-02-09: Initialized Hugo architecture and deployed "PaperMod" theme using AI-First workflow.

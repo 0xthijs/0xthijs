@@ -1,0 +1,32 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'HR Analytics Portfolio'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = 'auto'
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    description = "HR Analytics Portfolio - People Logic meets Machine Logic"
+    
+    [params.profileMode]
+        enabled = true
+        title = "Hi there! I'm Thijs"
+        subtitle = "Senior HRBP turning AI-Enabler"
+        imageUrl = "https://github.com/0xthijs.png" # Placeholder
+        imageTitle = "Thijs"
+        buttons = [
+            { name = "About Me", url = "about" },
+            { name = "Projects", url = "projects" },
+            { name = "GitHub", url = "https://github.com/0xthijs" }
+        ]
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 10
