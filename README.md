@@ -19,9 +19,6 @@ I translate complex human capital challenges into deterministic algorithmic requ
 | **Data Layer** | SQL / Power BI / Python |
 | **Frontend** | React / Tailwind / Vite |
 
-## Active Project
-**IBM Attrition Risk Dashboard**
-Moving beyond descriptive retention metrics to prescriptive risk scoring. This system enables proactive talent intervention before resignation letters are written.
 
 ---
 *This profile is auto-deployed via GitHub Actions.*

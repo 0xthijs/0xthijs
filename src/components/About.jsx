@@ -23,12 +23,7 @@ const About = () => {
                                 </p>
                             </div>
 
-                            <div>
-                                <h3 className="text-2xl font-bold text-white mb-4">Active Project</h3>
-                                <p className="leading-relaxed">
-                                    Currently deploying the <span className="text-white font-semibold">IBM Attrition Risk Dashboard</span>. This system moves beyond descriptive retention metrics to prescriptive risk scoring, enabling proactive talent intervention before resignation letters are written.
-                                </p>
-                            </div>
+
                         </div>
 
                         <div className="space-y-8">
