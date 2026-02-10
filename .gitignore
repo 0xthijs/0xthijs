@@ -1,35 +1,24 @@
-# --- Standard Hugo & OS ---
-/public
-/resources
-/.hugo_build.lock
-.DS_Store
-Thumbs.db
-
-# --- Python & Virtual Envs ---
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-*.egg-info/
-.venv/
-env/
-venv/
+# Logs
+logs
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-# --- SECURITY (Critical) ---
-.env
-secrets.json
+node_modules
+dist
+dist-ssr
+*.local
 
-# --- Data Safety (Deny by Default) ---
-*.csv
-*.parquet
-*.xlsx
-*.xls
-*.json
-*.sqlite
-*.db
-
-# --- Whitelist (Allow Specific Portfolio Assets) ---
-!data-lab/01-ibm-attrition/IBM_HR_Employee_Attrition.csv
-!hugo.toml
-!hugo.yaml
-!package.json
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
