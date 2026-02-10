@@ -1,24 +1,27 @@
-# Hi, I'm Thijs! 👋
+# Hi, I'm Thijs
 
-I'm an **HR Analytics Specialist** & **AI Enthusiast**.
+**Senior HRBP** ➡️ **HR AI Product Owner**
 
-## 🚀 About Me
+I define the "Why" and "What" of HR Tech. I orchestrate AI agents to execute the "How."
 
-I specialize in **People Analytics**, transforming workforce data into actionable insights. This repository hosts my personal portfolio, built with **React**, **Vite**, and **Tailwind CSS**.
+👉 **[View My Portfolio](https://0xthijs.github.io/0xthijs/)** -- *Built entirely by AI agents under my direction.*
 
-👉 **[View My Portfolio](https://0xthijs.github.io/0xthijs/)**
+## Value Proposition
+**Bridging People Logic with Machine Logic.**
+I translate complex human capital challenges into deterministic algorithmic requirements. I don't just analyze data; I build systems that automate decision intelligence.
 
-## 🛠️ Tech Stack using
+## My Tech Stack
 
-- **Frontend**: React, Tailwind CSS v4, Framer Motion
-- **Data**: Python, Pandas, SQL
-- **Tools**: GitHub Actions, VS Code
+| Layer | Technology |
+| :--- | :--- |
+| **AI Orchestration** | Gemini 2.0 Pro |
+| **Execution** | Antigravity (Agentic IDE) |
+| **Data Layer** | SQL / Power BI / Python |
+| **Frontend** | React / Tailwind / Vite |
 
-## 📈 Recent Projects
-
-- **Predictive Attrition Modeling**: Identifying flight risk using ML.
-- **Diversity Audit**: Automated reporting for DE&I metrics.
-- **Promotion Velocity**: Analyzing career progression rates.
+## Active Project
+**IBM Attrition Risk Dashboard**
+Moving beyond descriptive retention metrics to prescriptive risk scoring. This system enables proactive talent intervention before resignation letters are written.
 
 ---
-*This portfolio is auto-deployed via GitHub Actions.*
+*This profile is auto-deployed via GitHub Actions.*
