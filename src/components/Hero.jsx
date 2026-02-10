@@ -67,12 +67,12 @@ const Hero = () => {
                         transition={{ duration: 0.8, delay: 0.4 }}
                         className="flex gap-4"
                     >
-                        <button className="px-8 py-4 bg-white text-black font-bold rounded-full hover:bg-gray-200 transition-all transform hover:scale-105 shadow-[0_0_20px_rgba(255,255,255,0.2)]">
+                        <a href="#projects" className="px-8 py-4 bg-white text-black font-bold rounded-full hover:bg-gray-200 transition-all transform hover:scale-105 shadow-[0_0_20px_rgba(255,255,255,0.2)] inline-block text-center">
                             View Projects
-                        </button>
-                        <button className="px-8 py-4 border border-white/20 bg-white/5 text-white font-medium rounded-full hover:bg-white/10 transition-all backdrop-blur-sm">
+                        </a>
+                        <a href="#about" className="px-8 py-4 border border-white/20 bg-white/5 text-white font-medium rounded-full hover:bg-white/10 transition-all backdrop-blur-sm inline-block text-center">
                             About Me
-                        </button>
+                        </a>
                     </motion.div>
                 </div>
 
