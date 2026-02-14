@@ -4,7 +4,7 @@
 
 I define the "Why" and "What" of HR Tech. I orchestrate AI agents to execute the "How."
 
-👉 **[View My Portfolio](https://0xthijs.github.io/0xthijs/)** -- *Built entirely by AI agents under my direction.*
+👉 **[View My Portfolio](https://0xthijs.github.io/)** -- *Built entirely by AI agents under my direction.*
 
 ## Value Proposition
 **Bridging People Logic with Machine Logic.**
