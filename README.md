@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./home-banner.png" alt="Thijs van der Aa" width="100%" />
+</div>
 
 <div align="center">
 
@@ -20,15 +23,14 @@
 
 <br />
 
-
-##  VALUE PROPOSITION
+## 💡 VALUE PROPOSITION
 
 Bridging People Logic with Machine Logic.  
 I translate complex human capital challenges into deterministic algorithmic requirements. I don't just analyze data; I build systems that automate decision intelligence.
 
 <br />
 
-##  FEATURED PROJECTS
+## 🚀 FEATURED PROJECTS
 
 - 🧠 **SkillFlex – AI Internal Mobility Marketplace**  
   AI-powered talent marketplace that infers employee skills and matches them to internal gigs to reduce attrition.  
@@ -52,9 +54,7 @@ I translate complex human capital challenges into deterministic algorithmic requ
 
 <br />
 
-<br />
-
-##  MY WORKFLOW 
+## ⚙️ MY WORKFLOW *(The Differentiator)*
 
 ```text
 Business Problem ➔ People Logic ➔ AI Agent Orchestration ➔ Prototype ➔ Deploy ➔ Measure
@@ -64,7 +64,7 @@ I use **Google Antigravity**, **Gemini**, and **Claude** as my agentic stack to 
 
 <br />
 
-##  TECH STACK
+## 🛠️ TECH STACK
 
 <div align="left">
   <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity IDE" />
