@@ -54,7 +54,7 @@ I translate complex human capital challenges into deterministic algorithmic requ
 
 <br />
 
-##  MY WORKFLOW *(The Differentiator)*
+##  MY WORKFLOW 
 
 ```text
 Business Problem ➔ People Logic ➔ AI Agent Orchestration ➔ Prototype ➔ Deploy ➔ Measure
