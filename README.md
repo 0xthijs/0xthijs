@@ -1,7 +1,7 @@
 
-<h3 align="center">
-  Senior Human Resources Business Partner | HR AI Product Owner | I don't write code. I architect workforce solutions and let AI agents execute.
-</h3>
+<h1 align="center">
+  Senior Human Resources Business Partner | HR AI Product Owner | <br>I don't write code. I architect workforce solutions and let AI agents execute.
+</h1>
 
 <div align="center">
   <a href="https://linkedin.com/in/thijsvanderaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -43,7 +43,7 @@ I translate complex human capital challenges into deterministic algorithmic requ
 
 <br />
 
-##  MY WORKFLOW *(The Differentiator)*
+##  MY WORKFLOW 
 
 ```text
 Business Problem ➔ People Logic ➔ AI Agent Orchestration ➔ Prototype ➔ Deploy ➔ Measure
