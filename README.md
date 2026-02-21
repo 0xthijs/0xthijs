@@ -1,7 +1,17 @@
 
-<h3 align="center">
-  Senior Human Resources Business Partner | HR AI Product Owner | I don't write code. I architect workforce solutions and let AI agents execute.
-</h3>
+<div align="center">
+
+<h1>THIJS VAN DER AA</h1>
+
+<p><em>Senior Human Resources Business Partner &nbsp;·&nbsp; HR AI Product Owner</em></p>
+
+<br />
+
+<p><strong>I don't write code.<br/>I architect workforce solutions and let AI agents execute.</strong></p>
+
+<sub>──────────────────────────────────────────</sub>
+
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/thijsvanderaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -9,6 +19,7 @@
 </div>
 
 <br />
+
 
 ##  VALUE PROPOSITION
 
