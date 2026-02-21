@@ -8,8 +8,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/thijsvanderaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://0xthijs.github.io/"><img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=0xthijs&color=blue&style=for-the-badge" alt="Profile Views">
+  <a href="https://0xthijs.github.io/"><img src="https://img.shields.io/badge/Portfolio-E2E8F0?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"></a>
 </div>
 
 <br />
@@ -19,16 +18,31 @@
 > "Bridging People Logic with Machine Logic.  
 > I translate complex human capital challenges into deterministic algorithmic requirements. I don't just analyze data; I build systems that automate decision intelligence."
 
-*My portfolio is built entirely by AI agents under my direction.*
-
 <br />
 
-## 🏗️ WHAT I BUILD
+## 🚀 FEATURED PROJECTS
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| 🔄 **Internal Mobility** | 💰 **Compensation Analytics** | 🛡️ **Talent Risk** | ⚖️ **DEI Measurement** |
-| 🔋 **Burnout Prediction** | 🚀 **Onboarding** | 🕸️ **Org Network Analysis** | 🔐 **Data Governance** |
+- 🧠 **SkillFlex – AI Internal Mobility Marketplace**  
+  AI-powered talent marketplace that infers employee skills and matches them to internal gigs to reduce attrition.  
+  [→ View Project](https://0xthijs.github.io/projects/skillflex/)  
+
+- 🔮 **Crystal Onboarding**  
+  A 3D React Three Fiber onboarding experience where a living crystal evolves based on new hire input — turning day one admin into an immersive, personalized journey.  
+  [→ View Project](https://0xthijs.github.io/projects/crystal-onboarding/)  
+
+- 💰 **CompSense – Enterprise Compensation Dashboard**  
+  React-based compensation planning tool with real-time budget modeling and interactive salary band visualization.  
+  [→ View Project](https://0xthijs.github.io/projects/compsense/)  
+
+- 🛡️ **Critical Talent Risk Radar**  
+  HR analytics app that identifies high-potential flight risks and uses Gemini AI to generate contextual retention strategies.  
+  [→ View Project](https://0xthijs.github.io/projects/critical-talent-risk-radar/)  
+
+- 🕸️ **Organizational Network Visualizer**  
+  Strategic tool that maps invisible communication flows to surface hidden influencers and detect burnout risk clusters.  
+  [→ View Project](https://0xthijs.github.io/projects/organizational-network-visualizer/)  
+
+<br />
 
 <br />
 
@@ -58,36 +72,6 @@ I use **Google Antigravity**, **Gemini**, and **Claude** as my agentic stack to 
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </div>
 
-<br />
-
-## 🚀 FEATURED PROJECTS
-
-- 🧠 **SkillFlex – AI Internal Mobility Marketplace**  
-  AI-powered talent marketplace that infers employee skills and matches them to internal gigs to reduce attrition.  
-  [→ View Project](https://0xthijs.github.io/projects/skillflex/)  
-
-- 🔮 **Crystal Onboarding**  
-  A 3D React Three Fiber onboarding experience where a living crystal evolves based on new hire input — turning day one admin into an immersive, personalized journey.  
-  [→ View Project](https://0xthijs.github.io/projects/crystal-onboarding/)  
-
-- 💰 **CompSense – Enterprise Compensation Dashboard**  
-  React-based compensation planning tool with real-time budget modeling and interactive salary band visualization.  
-  [→ View Project](https://0xthijs.github.io/projects/compsense/)  
-
-- 🛡️ **Critical Talent Risk Radar**  
-  HR analytics app that identifies high-potential flight risks and uses Gemini AI to generate contextual retention strategies.  
-  [→ View Project](https://0xthijs.github.io/projects/critical-talent-risk-radar/)  
-
-- 🕸️ **Organizational Network Visualizer**  
-  Strategic tool that maps invisible communication flows to surface hidden influencers and detect burnout risk clusters.  
-  [→ View Project](https://0xthijs.github.io/projects/organizational-network-visualizer/)  
-
-<br />
-
----
-
 <div align="center">
-  <p><em>This profile README was deployed via GitHub Actions.</em></p>
-  <p><em>Portfolio built entirely by AI agents under my direction.</em></p>
   <p><a href="https://0xthijs.github.io/">🌐 0xthijs.github.io</a></p>
 </div>
