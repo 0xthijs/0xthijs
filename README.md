@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Senior HRBP → HR AI Product Owner | I don't write code. I architect workforce solutions and let AI agents execute.
+  Senior Human Resources Business Partner | HR AI Product Owner | I don't write code. I architect workforce solutions and let AI agents execute.
 </h3>
 
 <div align="center">
@@ -15,8 +15,8 @@
 
 ## 💡 VALUE PROPOSITION
 
-> "Bridging People Logic with Machine Logic.  
-> I translate complex human capital challenges into deterministic algorithmic requirements. I don't just analyze data; I build systems that automate decision intelligence."
+Bridging People Logic with Machine Logic.  
+I translate complex human capital challenges into deterministic algorithmic requirements. I don't just analyze data; I build systems that automate decision intelligence.
 
 <br />
 
